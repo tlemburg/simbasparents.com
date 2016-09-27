@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Tyler and Abby wedding'
+  erb 'Tyler and Abby wedding', :layout => :layout
 end
