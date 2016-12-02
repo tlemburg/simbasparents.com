@@ -161,3 +161,8 @@ body {
     width: 700px;
   }
 }
+
+p.lead a {
+  border-bottom: 2px solid transparent;
+  border-bottom-color: #fff;
+}
