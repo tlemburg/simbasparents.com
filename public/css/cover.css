@@ -162,7 +162,6 @@ body {
   }
 }
 
-p.lead a {
-  border-bottom: 2px solid transparent;
-  border-bottom-color: #fff;
+p.lead a, .links a {
+  text-decoration: underline;
 }
